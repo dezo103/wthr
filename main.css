@@ -1,0 +1,2 @@
+.wrapper{display:flex;flex-wrap:wrap;width:100%;max-width:1440px;margin:0 auto;border:1px solid blue;font-family:Verdana, sans-serif;font-size:400%;font-weight:bold;text-align:center;line-height:20%}.wrapper>*{width:49%;border:1px solid green}@media screen and (max-width: 992px){.wrapper>*{width:100%}}.buttons{display:flex;text-align:center;justify-content:space-around;align-items:center}.buttons>*{width:15%;height:40px;border-radius:20px}
+
