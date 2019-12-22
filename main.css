@@ -11,6 +11,9 @@
   text-align: center;
   line-height: 20%;
   color: #ffffff; }
+  @media screen and (max-width: 640px) {
+    .wrapper {
+      border-radius: 20px; } }
   .wrapper > * {
     width: 49%; }
     @media screen and (max-width: 992px) {
